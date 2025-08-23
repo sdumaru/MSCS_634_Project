@@ -106,4 +106,5 @@ This work involved:
 - `final_project_deliverable.ipynb` — merged notebook (cleaning, EDA, models, clustering, rules, plots)  
 - `README.md` — this summary for Deliverable 4  
 - `Final Project Report.docx` — detailed written report with data preparation steps, modeling details, evaluation, insights, ethical considerations, recommendations, and references.
+- `video_link.txt` — link to Cumberland sharepoint that contain video for final presentation [Click here to access video](https://cumber-my.sharepoint.com/:v:/r/personal/sdumaru30060_ucumberlands_edu/Documents/MSCS634_Final_Presentation.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=kaI6JK) 
 ---
